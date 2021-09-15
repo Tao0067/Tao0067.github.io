@@ -15,6 +15,7 @@ tags:
 
 你必须实现时间复杂度为 O(log n) 的算法来解决此问题。
 
+地址：https://leetcode-cn.com/problems/find-peak-element/
 <!--more -->
 
 ## 二.解题
