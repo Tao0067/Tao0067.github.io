@@ -1,9 +1,13 @@
 ---
 layout: php
-title: php 解 LeetCode 162 寻找峰值.md
+title: php 解 LeetCode 第162题 寻找峰值.md
 date: 2021-09-15 23:33:42
+categories:
+- php
+- 算法 
+
 tags:
-- php LeetCode
+- php Leetcode
 ---
 ## 一.读题
 
